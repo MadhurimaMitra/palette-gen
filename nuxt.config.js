@@ -50,8 +50,12 @@ export default {
         extend: {
           colors: {
             'purple': '#9575DE'
+          },
+          screens: {
+            'sm': '360px'
           }
-        }
+        },
+        
       }
     }
   },
